@@ -1,0 +1,20 @@
+# Installation Instructions for Unity Hub
+
+## Overview
+Unity Hub is a standalone application that streamlines the way you find, download, and manage your Unity projects and installations.
+
+## System Requirements
+Before you install Unity Hub, ensure your system meets the following requirements:
+- **Windows**: Windows 7 SP1+, 8, 10, 64-bit versions only
+
+## Installation Steps
+
+### Windows
+1. **Download Unity Hub**: Go to the [Unity Hub Download Page](https://unity3d.com/get-unity/download) and download the installer for Windows.
+2. **Run the Installer**: Locate the downloaded file (`UnityHubSetup.exe`) and double-click to run the installer.
+3. **Follow the Prompts**: Follow the installation wizard prompts to complete the installation.
+
+After Installation
+Sign In: Open Unity Hub and sign in with your Unity ID or create a new one.
+Install Unity Editor: Use Unity Hub to download and install the Unity Editor version you need.
+Create or Open Projects: Start creating new projects or open existing ones through Unity Hub.
